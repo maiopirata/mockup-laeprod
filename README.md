@@ -1,1 +1,5 @@
-# mockup-laeprod
+# Example of project automation
+add a new line
+
+a new line for a new deployment
+and an other one
